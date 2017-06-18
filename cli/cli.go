@@ -20,4 +20,4 @@ var Shortcuts = map[string]string{
 	"sharing:add":    "perms:create",
 	"sharing:remove": "perms:delete",
 	"whoami":         "auth:whoami",
-}
+}   "c"               "apps:create", 
